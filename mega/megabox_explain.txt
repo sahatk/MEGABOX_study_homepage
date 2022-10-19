@@ -1,0 +1,7 @@
+section(id이름) > container > row > div(class이름)
+
+모든 레이아웃 위치 설정
+
+1. section id와 div class 이름 통일
+2. container에 margin: 0 auto; 로 바깥쪽 틀 잡기
+3. row에 padding: 0 28px; 로 안쪽 틀 잡기
